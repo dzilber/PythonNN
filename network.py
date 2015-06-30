@@ -1,3 +1,8 @@
+''' Credit too Michael Nielsen
+Taken from
+http://neuralnetworksanddeeplearning.com/chap1.html
+'''
+
 import numpy as np
 import csv
 
